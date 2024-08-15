@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
+
 class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
 
